@@ -14,8 +14,8 @@ public class Sample2Application {
 	//local change in new branch
 
 	//remote change in github
-	//commit2
-
+	//commit 1
+	
 
 	//   commit1
 
