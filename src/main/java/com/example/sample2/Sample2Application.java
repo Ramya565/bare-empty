@@ -10,5 +10,6 @@ public class Sample2Application {
 		SpringApplication.run(Sample2Application.class, args);
 	}
 	//commit 1
+	//commit2
 
 }
